@@ -1,5 +1,5 @@
 <?php 
 
-echo "Bem-vindo ao meu projeto em PHP!"; 
+echo "Nova funcionalidade em desenvolvimento."; 
 
 ?>   
