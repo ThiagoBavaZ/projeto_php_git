@@ -1,5 +1,5 @@
 <?php 
 
-echo "Nova funcionalidade em desenvolvimento."; 
+echo "Colaborador adicionando nova funcionalidade."; 
 
 ?>   
